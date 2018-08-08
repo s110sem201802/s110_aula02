@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Git teste
+=======
+Git test
+>>>>>>> origin/fmbdutra_testeaula02
